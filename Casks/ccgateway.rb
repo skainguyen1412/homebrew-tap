@@ -1,6 +1,6 @@
 cask "ccgateway" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "f99e8760365b28799b1ac28d17da24b4370a6770d1146394bdc40df8ddbde794"
 
   url "https://github.com/skainguyen1412/claude-code-gateway/releases/download/v#{version}/CCGateWay.zip"
   name "CCGateWay"
